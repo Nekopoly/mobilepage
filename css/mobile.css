@@ -28,8 +28,8 @@ div.balloon{
 	position: absolute;
 	top: 7%;
 	margin-left: 60%;
-	width: auto;
-	height: auto;
+width:400px;
+ height:300px;
 }
 div.ballon_text{
 	font-size: 16px;
